@@ -1,0 +1,6 @@
+framework module Pods_SGPersonalKit_Tests {
+  umbrella header "Pods-SGPersonalKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

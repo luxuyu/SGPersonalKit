@@ -1,0 +1,19 @@
+PODS:
+  - MBProgressHUD (0.9.2)
+  - SGPersonalKit (0.1.0):
+    - MBProgressHUD (~> 0.9)
+
+DEPENDENCIES:
+  - SGPersonalKit (from `../`)
+
+EXTERNAL SOURCES:
+  SGPersonalKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  SGPersonalKit: e6608107437fd0b2ff443e89560cce3304b353b2
+
+PODFILE CHECKSUM: b594c2db9e1477ccd0ecde190e35d757c5c3437f
+
+COCOAPODS: 1.2.1

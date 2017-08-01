@@ -1,0 +1,6 @@
+framework module Pods_SGPersonalKit_Example {
+  umbrella header "Pods-SGPersonalKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
