@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGPersonalKit_Example' do
+  pod 'SGPersonalKit', :path => '../'
+
+  target 'SGPersonalKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
